@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+
+button{
+    border-radius: solid;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+    font-size: 28px;
+}
+.first-class{
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.second-class{
+    background-color: #ffff00;
+}
